@@ -1,5 +1,23 @@
 # QuantumIT Full Stack Authentication System
 
+# Application Screenshots
+
+## Login Page
+
+![Login](./screenshots/Login.jpeg)
+
+---
+
+## Register Page
+
+![Register](./screenshots/Register.jpeg)
+
+---
+
+## Dashboard
+
+![Dashboard](./screenshots/Dashboard.jpeg)
+
 A full-stack authentication system built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
 
 This project includes:
