@@ -1,0 +1,84 @@
+
+[
+  {
+    "id": 1,
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "name": "Michael Holz",
+    "dob": "1998-04-10",
+    "email": "michael@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 2,
+    "image": "https://randomuser.me/api/portraits/women/44.jpg",
+    "name": "Paula Wilson",
+    "dob": "1997-08-05",
+    "email": "paula@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 3,
+    "image": "https://randomuser.me/api/portraits/men/51.jpg",
+    "name": "Antonio Moreno",
+    "dob": "1995-11-05",
+    "email": "antonio@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 4,
+    "image": "https://randomuser.me/api/portraits/women/68.jpg",
+    "name": "Mary Saveley",
+    "dob": "1996-09-15",
+    "email": "mary@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 5,
+    "image": "https://randomuser.me/api/portraits/men/75.jpg",
+    "name": "Martin Sommer",
+    "dob": "1994-01-22",
+    "email": "martin@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 6,
+    "image": "https://randomuser.me/api/portraits/women/12.jpg",
+    "name": "Emma Watson",
+    "dob": "1999-06-11",
+    "email": "emma@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 7,
+    "image": "https://randomuser.me/api/portraits/men/41.jpg",
+    "name": "John Carter",
+    "dob": "1993-03-19",
+    "email": "john@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 8,
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "name": "Sophia Lee",
+    "dob": "1997-12-08",
+    "email": "sophia@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 9,
+    "image": "https://randomuser.me/api/portraits/men/60.jpg",
+    "name": "David Warner",
+    "dob": "1991-07-28",
+    "email": "david@gmail.com",
+    "password": "********"
+  },
+  {
+    "id": 10,
+    "image": "https://randomuser.me/api/portraits/women/50.jpg",
+    "name": "Olivia Brown",
+    "dob": "1995-10-14",
+    "email": "olivia@gmail.com",
+    "password": "********"
+  }
+]
+
