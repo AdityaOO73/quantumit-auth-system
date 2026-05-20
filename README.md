@@ -4,13 +4,13 @@
 
 ## Login Page
 
-![Login](./screenshots/Login.jpeg)
+![Login](./screenshots/Login.png)
 
 ---
 
 ## Register Page
 
-![Register](./screenshots/Register.jpeg)
+![Register](./screenshots/Register.png)
 
 ---
 
